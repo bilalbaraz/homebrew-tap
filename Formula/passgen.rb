@@ -6,7 +6,7 @@ class Passgen < Formula
   version "0.1.0"
 
   def install
-    bin.install "passgen"
+    bin.install "passgen_darwin_amd64" => "passgen"
   end
 
   test do
