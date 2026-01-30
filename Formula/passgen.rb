@@ -1,3 +1,4 @@
+class Passgen < Formula
   desc "Secure password generator written in Go"
   homepage "https://github.com/bilalbaraz/passgen"
   url "https://github.com/bilalbaraz/passgen/releases/download/v0.1.0/passgen_darwin_amd64.zip"
