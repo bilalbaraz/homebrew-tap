@@ -1,5 +1,5 @@
-class Pomodoro < Formula
-  desc "Pomodoro timer written in Go"
+class Whois < Formula
+  desc "Whois CLI written in Go"
   homepage "https://github.com/bilalbaraz/whois"
   url "https://github.com/bilalbaraz/whois/releases/download/v0.1.0/whois_darwin_amd64.zip"
   sha256 "5832ec9d39c03aefbe53053ec30ff00e85f54e2e63b5ac0c4d7fef8b1963bfdd"
